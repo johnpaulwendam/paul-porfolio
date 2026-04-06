@@ -38,7 +38,7 @@ export default function App() {
             <section id="home">
               <div className="content">
                 <h1 style={{ fontSize: "5.5rem", margin: 0, fontWeight: 900 }}>Paul</h1>
-                <p style={{ letterSpacing: "4px", color: "#666" }}>Front End Developer</p>
+                <p style={{ letterSpacing: "4px", color: "#666" }}>UX/UI Designer</p>
               </div>
             </section>
 
@@ -92,7 +92,7 @@ export default function App() {
             <img src="JJR.png" alt="JJR Meditrack" />
           </div>
           <div className="project-info">
-            <h3>UI Challenge 2</h3>
+            <h3>JJR Meditrack</h3>
             <p>Inventory & Sales Management System built with PHP and MySQL.</p>
           </div>
         </div>
