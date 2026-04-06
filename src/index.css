@@ -104,7 +104,7 @@ section {
 }
 
 .project-card:hover .project-image img {
-  transform: scale(1.1); /* Subtle zoom on hover */
+  transform: scale(1.1); 
 }
 
 .project-info {
