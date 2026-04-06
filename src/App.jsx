@@ -92,7 +92,7 @@ export default function App() {
             <img src="JJR.png" alt="JJR Meditrack" />
           </div>
           <div className="project-info">
-            <h3>JJR Meditrack</h3>
+            <h3>UI Challenge 2</h3>
             <p>Inventory & Sales Management System built with PHP and MySQL.</p>
           </div>
         </div>
@@ -102,7 +102,7 @@ export default function App() {
             <img src="Komun.png " alt="Komun" />
           </div>
           <div className="project-info">
-            <h3>Kumudad</h3>
+            <h3>Komun</h3>
             <p>Digital Barangay Records Solution for local governance.</p>
           </div>
         </div>
@@ -114,6 +114,7 @@ export default function App() {
           <div className="project-info">
             <h3>Awesome Todos</h3>
             <p>A full-stack MERN application with secure authentication.</p>
+
           </div>
         </div>
 
@@ -150,8 +151,8 @@ export default function App() {
                     
                     <div className="social-links">
                       <a href="https://github.com/johnpaulwendam" target="_blank">GITHUB</a>
-                      <a href="johnpaulbalquin52@gmail.com">EMAIL</a>
-                      <a href="#">LINKEDIN</a>
+                      <a href="https://johnpaulbalquin52@gmail.com">EMAIL</a>
+                      <a href="https://www.linkedin.com/in/john-paul-wendam-b727703b9/">LINKEDIN</a>
                     </div>
                   </div>
                 </motion.div>
